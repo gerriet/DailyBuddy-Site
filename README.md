@@ -1,4 +1,4 @@
-# MobiKit for GitHub Pages
+# Webseite für DailyBuddy, beruhend auf MobiKit for GitHub Pages
 
 MobiKit is Jekyll theme, that allows you to quickly launch mobile app landing for App Store & Google Play submission. 
 

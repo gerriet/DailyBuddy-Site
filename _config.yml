@@ -1,11 +1,11 @@
-title: MobiKit
+title: DailyBuddy
 author:
-  name: Name Lastname
-  email: hello@example.com
+  name: wirvsvirus Hackathon
+  email: 
 description: > # this means to ignore newlines
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results).
+  Eine feste Tagesstruktur ist in Krisenzeiten vor allem für Menschen mit psychischen Erkrankungen wichtig. 
+  Wenn der gewohnte Tagesablauf plötzlich ausfällt, kann dies zu einer Verschlechterung der psychischen Gesundheit führen. 
+  DailyBuddy wird eine App für Android und iOS, die Unterstützung dabei bietet, feste Tagesabläufe zu schaffen und beizubehalten.
 type: free # Choose one from "open source", "free", freemium, ad supported, commercial
 google_analytics: UA-NNNNNNNN-N
 links:
