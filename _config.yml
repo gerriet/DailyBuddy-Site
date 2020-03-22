@@ -18,5 +18,7 @@ plugins:
 
 lang: de
 
+logo: logo.png
+
 static-files:
   image: 
